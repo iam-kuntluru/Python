@@ -1,5 +1,5 @@
-1. QS
-
+# 1. QS
+```
 a = 10
 b = 5
 
@@ -12,10 +12,11 @@ print("Sum:", sum_result)
 print("Difference:", difference_result)
 print("Product:", product_result)
 print("Quotient:", quotient_result)
+```
 
-2. QS
+# 2. QS
 
-
+```
 a = 10
 b = 5
 
@@ -32,11 +33,11 @@ print("a <= b:", less_than_or_equal)
 print("a >= b:", greater_than_or_equal)
 print("a == b:", equal)
 print("a != b:", not_equal)
+```
 
+# 3. QS
 
-3. QS
-
-
+```
 x = True
 y = False
 
@@ -49,10 +50,11 @@ print("x and y:", and_result)
 print("x or y:", or_result)
 print("not x:", not_result_x)
 print("not y:", not_result_y)
+```
 
+# 4. QS
 
-4. QS
-
+```
 total = 10
 
 total += 5
@@ -61,12 +63,11 @@ total *= 2
 total /= 4
 
 print("Final total:", total)
+```
 
+# 5.QS
 
-
-5.QS
-
-
+```
 my_list = [1, 2, 3, 4, 5]
 
 # Identity operators
@@ -84,3 +85,4 @@ print("a is my_list:", is_same_object)
 print("b is not my_list:", is_not_same_object)
 print("3 in my_list:", element_in_list)
 print("6 not in my_list:", element_not_in_list)
+```
