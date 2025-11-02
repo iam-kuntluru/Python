@@ -70,7 +70,7 @@ Smpl s bttr thn cmplx.
 Cmplx s bttr thn cmplctd.
 ```
 
-#### While Loop
+## While Loop
 
 The "while" loop continues to execute a block of code as long as a specified condition is true. It's often used when you don't know in advance how many times the loop should run.
 
