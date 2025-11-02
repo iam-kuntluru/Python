@@ -5,7 +5,9 @@
 
 ### Functions
 
-A function in Python is a block of code that performs a specific task. Functions are defined using the `def` keyword and can take inputs, called arguments. They are a way to encapsulate and reuse code.
+A Python function is a reusable block of code that performs a specific task, helps avoid repetition, and organizes your program for clarity and maintainability. Functions are defined using the `def` keyword and can take inputs, called arguments. They are a way to encapsulate and reuse code.
+
+A function definition starts with the def keyword, followed by a function name, parentheses containing an optional parameter list, a trailing colon, and an indented body containing the statements to run. The function body forms a code block defined by indentation, and the first statement may be an optional docstring that documents the function’s purpose. A return statement exits the function and can pass back a value, while omitting it is equivalent to returning None.
 
 **Example:**
 
